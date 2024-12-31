@@ -1,0 +1,375 @@
+Started data_100 Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 45
+
+
+
+Started data_1000 Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 3
+
+
+
+Started data_10000 Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_100000 Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_0.5M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 2
+
+
+
+Started data_1.0M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 0
+
+
+
+Started data_1.5M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_2.0M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_2.5M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_3.0M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_3.5M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_4.0M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 1
+
+
+
+Started data_4.5M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 2
+
+
+
+Started data_5.0M Linear Search
+
+For Best Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 2
+
+
+
+Started data_100 Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 4
+
+
+
+Started data_1000 Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 18
+
+
+
+Started data_10000 Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 198
+
+
+
+Started data_100000 Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 2026
+
+
+
+Started data_0.5M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 9966
+
+
+
+Started data_1.0M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 20332
+
+
+
+Started data_1.5M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 30127
+
+
+
+Started data_2.0M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 39823
+
+
+
+Started data_2.5M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 50952
+
+
+
+Started data_3.0M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 59963
+
+
+
+Started data_3.5M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:42
+Time Taken: 69957
+
+
+
+Started data_4.0M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:42
+Finished Time: 10:26:43
+Time Taken: 81804
+
+
+
+Started data_4.5M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 89949
+
+
+
+Started data_5.0M Linear Search
+
+For Average Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 100124
+
+
+
+Started data_100 Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 5
+
+
+
+Started data_1000 Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 37
+
+
+
+Started data_10000 Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 390
+
+
+
+Started data_100000 Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 4005
+
+
+
+Started data_0.5M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 20421
+
+
+
+Started data_1.0M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 39817
+
+
+
+Started data_1.5M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 59930
+
+
+
+Started data_2.0M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 86475
+
+
+
+Started data_2.5M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 100204
+
+
+
+Started data_3.0M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:43
+Time Taken: 122929
+
+
+
+Started data_3.5M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:43
+Finished Time: 10:26:44
+Time Taken: 140315
+
+
+
+Started data_4.0M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:44
+Finished Time: 10:26:44
+Time Taken: 160270
+
+
+
+Started data_4.5M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:44
+Finished Time: 10:26:44
+Time Taken: 180638
+
+
+
+Started data_5.0M Linear Search
+
+For Worst Case: Search starting index
+Started Time: 10:26:44
+Finished Time: 10:26:44
+Time Taken: 200950

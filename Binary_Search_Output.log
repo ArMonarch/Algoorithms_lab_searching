@@ -1,0 +1,375 @@
+Started data_100 Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 8
+
+
+
+Started data_1000 Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 3
+
+
+
+Started data_10000 Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 2
+
+
+
+Started data_100000 Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 7
+
+
+
+Started data_0.5M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 11
+
+
+
+Started data_1.0M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 12
+
+
+
+Started data_1.5M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 14
+
+
+
+Started data_2.0M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 10
+
+
+
+Started data_2.5M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 12
+
+
+
+Started data_3.0M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 14
+
+
+
+Started data_3.5M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 13
+
+
+
+Started data_4.0M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 12
+
+
+
+Started data_4.5M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 12
+
+
+
+Started data_5.0M Binary Search
+
+For Best Case: Search value in the middle of the array
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 13
+
+
+
+Started data_100 Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 5
+
+
+
+Started data_1000 Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 4
+
+
+
+Started data_10000 Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 5
+
+
+
+Started data_100000 Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 10
+
+
+
+Started data_0.5M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 19
+
+
+
+Started data_1.0M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 19
+
+
+
+Started data_1.5M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 22
+
+
+
+Started data_2.0M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 22
+
+
+
+Started data_2.5M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 26
+
+
+
+Started data_3.0M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 22
+
+
+
+Started data_3.5M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 26
+
+
+
+Started data_4.0M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 24
+
+
+
+Started data_4.5M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 27
+
+
+
+Started data_5.0M Binary Search
+
+For Average Case: Search any index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 25
+
+
+
+Started data_100 Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 3
+
+
+
+Started data_1000 Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 3
+
+
+
+Started data_10000 Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 5
+
+
+
+Started data_100000 Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 10
+
+
+
+Started data_0.5M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 22
+
+
+
+Started data_1.0M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 25
+
+
+
+Started data_1.5M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 24
+
+
+
+Started data_2.0M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 28
+
+
+
+Started data_2.5M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 28
+
+
+
+Started data_3.0M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 27
+
+
+
+Started data_3.5M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 29
+
+
+
+Started data_4.0M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 28
+
+
+
+Started data_4.5M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:45
+Finished Time: 10:25:45
+Time Taken: 27
+
+
+
+Started data_5.0M Binary Search
+
+For Worst Case: Search border index
+Started Time: 10:25:46
+Finished Time: 10:25:46
+Time Taken: 30
